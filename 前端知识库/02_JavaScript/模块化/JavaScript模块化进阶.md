@@ -51,7 +51,6 @@ console.log(obj.foo, obj.bar, obj.default)
 import './module.js'  // 执行初始化逻辑
 ```
 
----
 
 ## ⚡ 模块化特性
 
@@ -62,7 +61,6 @@ import './module.js'  // 执行初始化逻辑
 - **defer 延迟执行**：模块延迟执行，保证 DOM 可用  
 - **外部脚本**：需 CORS 支持  
 
----
 
 ## 🔧 模块化进阶
 
@@ -73,7 +71,6 @@ import './module.js'  // 执行初始化逻辑
 - **ESM vs CJS**：静态分析 + Tree Shaking，ESM 支持 top-level await  
 - **动态导入**：import(url) 返回 Promise，可用于懒加载路由  
 
----
 
 ## 📦 发布模块示例
 
@@ -95,7 +92,6 @@ import './module.js'  // 执行初始化逻辑
 }
 ```
 
----
 
 ## 🔗 关联笔记
 <!-- JavaScript模块化、ESM、CJS、Tree Shaking、动态导入、模块发布 -->
