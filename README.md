@@ -60,19 +60,30 @@
 
 ### 03_CSS
 
-#### 现代视口单位
+#### 视口与单位（Viewport & Units）
 
 - [[为什么 iOS Safari上看到100dvh与100svh一样？]]
 - [[现代视口单位dvh_svh_lvh 全解析_移动端 vh 问题的根本解决方案]]
 
-#### 响应式与流体布局
+---
+
+#### 响应式与流体布局（Responsive & Fluid Layout）
 
 - [[vw_布局优缺点]]
 - [[vw_和_clamp_流体布局]]
 
-#### Flex布局
+---
+
+#### Flex 布局（Flexbox）
 
 - [[flex-1-vs-flex-auto]]
+
+---
+
+#### 视觉混合与特效（Blend Modes & Visual Effects）
+
+- [[background-blend-mode]]
+- [[mix-blend-mode]]
 
 ---
 
