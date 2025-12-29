@@ -140,11 +140,45 @@
 
 ---
 
-### 05_Git
+### 08_Git
 
 - [[大厂的 Git 代码规范]]
 - [[Git 常见操作]]
 - [[Git 如何撤回已 Push 的代码]]
+
+---
+
+### 09_网页安全
+
+#### 1. 攻击模型
+
+- [[XSS 攻击模型]]
+- [[CSRF 原理]]
+
+#### 2. Cookie 与凭证
+
+- [[HttpOnly Cookie]]
+- [[SameSite Cookie 详解]]
+- [[Cookie Secure 属性详解]]
+- [[Cookie Domain 与 Path 作用机制]]
+
+#### 3. 浏览器安全机制
+
+- [[同源策略（SOP）详解]]
+- [[CORS 跨域机制]]
+- [[CORS 与 Cookie 凭证协作机制]]
+- [[Preflight OPTIONS 请求原理]]
+- [[Fetch credentials 参数]]
+
+#### 4. 防御策略
+
+- [[Content Security Policy（CSP）详解]]
+- [[Token 存储方式安全对比]]
+
+#### 5. 对照与总结
+
+- [[XSS vs CSRF vs SameSite vs HttpOnly]]
+- [[一次跨域请求完整时序图（CORS  Cookie CSRF）]]
 
 ## 🔖 标签 (Tags)
 
