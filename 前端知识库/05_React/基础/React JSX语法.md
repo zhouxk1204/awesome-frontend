@@ -264,8 +264,8 @@ import { jsx } from "react/jsx-runtime";
 jsx("div", { children: "Hello" });
 ```
 
-详解见：  
-👉 [[react_JSX_转译机制]]
+详解见：
+👉 [[React JSX转译机制]]
 
 ---
 
@@ -303,9 +303,9 @@ NO！只能写表达式。
 
 ## 🔗 关联笔记
 
-- [[react_JSX_转译机制]]
+- [[React JSX转译机制]]
 
-- [[react_组件基础]]
+- [[React组件基础]]
 
 ---
 

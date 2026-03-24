@@ -30,8 +30,8 @@ window.addEventListener('pagehide', (event) => {
 
 ## 🔗 关联笔记
 - [[navigator.sendBeacon]]
-- [[beforeunload 与 unload]]
-- [[页面可见性 API]]
+- [[beforeunload与unload]]
+- [[页面可见性API]]
 
 ## 🏷️ 标签
 #javascript #页面卸载 #bfcache

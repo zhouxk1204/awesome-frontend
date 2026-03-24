@@ -185,13 +185,13 @@ class CounterClass extends React.Component {
 
 ## 🔗 关联笔记
 
-- [[react_JSX_语法]]
+- [[React JSX语法]]
 
-- [[react_props]]
+- [[React props]]
 
-- [[react_state]]
+- [[React state]]
 
-- [[react_受控与非受控组件]]
+- [[React受控与非受控组件]]
 
 - [[react_hooks_基础]]
 

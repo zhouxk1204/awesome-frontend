@@ -27,9 +27,9 @@ window.addEventListener('unload', () => {
 - 简单同步清理操作（不适合发送异步请求）
 
 ## 🔗 关联笔记
-- [[页面可见性 API]]
+- [[页面可见性API]]
 - [[navigator.sendBeacon]]
-- [[pagehide 与 pageshow]]
+- [[pagehide与pageshow]]
 
 ## 🏷️ 标签
 #javascript #页面卸载 #前端API

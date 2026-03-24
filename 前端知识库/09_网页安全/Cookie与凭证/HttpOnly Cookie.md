@@ -236,13 +236,13 @@ Cookie: session=xxx
 
 ## 🔗 关联笔记
 
-- [[CSRF 原理]]
+- [[CSRF原理]]
 
-- [[SameSite Cookie 详解]]
+- [[SameSite Cookie详解]]
 
-- [[Fetch credentials 参数]]
+- [[Fetch credentials参数]]
 
-- [[XSS 攻击模型]]
+- [[XSS攻击模型]]
 
 ---
 

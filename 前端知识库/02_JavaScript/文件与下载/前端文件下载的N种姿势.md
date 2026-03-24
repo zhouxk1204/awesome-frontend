@@ -216,7 +216,7 @@ Fetch + ReadableStream 实现流式读写，节省内存。
 
 ## 🔗 关联笔记
 
-- [[Blob_URL_原理解析]]
+- [[Blob URL原理解析]]
 
 - [[Fetch_与_XHR_区别]]
 

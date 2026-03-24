@@ -264,11 +264,11 @@ fetch(url, {
 
 ## 🔗 关联笔记
 
-- [[CSRF 原理]]
+- [[CSRF原理]]
 
 - [[HttpOnly Cookie]]
 
-- [[Fetch credentials 参数]]
+- [[Fetch credentials参数]]
 
 - [[CORS 与安全边界]]
 

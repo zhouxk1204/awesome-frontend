@@ -121,11 +121,11 @@ console.log(JSON.parse(JSON.stringify(obj)));
 
 ## 🔗 关联笔记
 
-- [[structuredClone_最佳实践]]
+- [[structuredClone最佳实践]]
 
-- [[structuredClone_原理解析]]
+- [[structuredClone原理解析]]
 
-- [[深拷贝_vs_浅拷贝]
+- [[深拷贝与浅拷贝]
 
 ---
 

@@ -243,9 +243,9 @@ fetch("https://bank.com/api/transfer", {
 
 ## 🔗 关联笔记
 
-- [[Fetch credentials 参数]]
+- [[Fetch credentials参数]]
 
-- [[SameSite Cookie 详解]]
+- [[SameSite Cookie详解]]
 
 - [[XSS vs CSRF 边界]]
 

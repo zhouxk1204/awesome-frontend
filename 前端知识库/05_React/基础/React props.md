@@ -189,11 +189,11 @@ function DataFetcher({ children }) {
 
 ## 🔗 关联笔记
 
-- [[react_state]]（State 与 props 的关系）
+- [[React state]]（State 与 props 的关系）
 
-- [[react_受控与非受控组件]]（表单组件模式）
+- [[React受控与非受控组件]]（表单组件模式）
 
-- [[react_JSX_语法]]（props 在 JSX 中的写法）
+- [[React JSX语法]]（props 在 JSX 中的写法）
 
 - [[react_memo_与性能优化]]（props 引用稳定性与缓存）
 

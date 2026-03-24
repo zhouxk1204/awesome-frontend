@@ -35,9 +35,9 @@ https://a.com  ❌  https://api.a.com
 
 ## 🔗 关联笔记
 
-- [[CORS 跨域机制]]
+- [[CORS跨域机制]]
 
-- [[XSS 攻击模型]]
+- [[XSS攻击模型]]
 
 ## 🏷️ 标签
 

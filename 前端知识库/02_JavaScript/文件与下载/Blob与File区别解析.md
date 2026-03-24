@@ -136,7 +136,7 @@ Blob、File 都能通过 Fetch 或 FormData 上传。
 
 ## 🔗 关联笔记
 
-- [[Blob_URL_原理解析]]
+- [[Blob URL原理解析]]
 
 - [[前端文件下载的N种姿势]]
 

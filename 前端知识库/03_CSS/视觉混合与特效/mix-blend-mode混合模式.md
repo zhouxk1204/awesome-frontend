@@ -129,7 +129,7 @@
 
 ## 🔗 关联笔记
 
-- [[background-blend-mode]]
+- [[background-blend-mode混合模式]]
 
 ---
 

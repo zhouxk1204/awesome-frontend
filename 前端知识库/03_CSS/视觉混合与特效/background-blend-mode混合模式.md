@@ -206,7 +206,7 @@
 
 ## 🔗 关联笔记
 
-- [[mix-blend-mode]]
+- [[mix-blend-mode混合模式]]
 
 - [[Tailwind 背景技巧]]
 

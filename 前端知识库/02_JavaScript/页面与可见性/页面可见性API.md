@@ -31,9 +31,9 @@ document.addEventListener('visibilitychange', () => {
 - 控制媒体播放
 
 ## 🔗 关联笔记
-- [[beforeunload 与 unload]]
+- [[beforeunload与unload]]
 - [[navigator.sendBeacon]]
-- [[pagehide 与 pageshow]]
+- [[pagehide与pageshow]]
 
 ## 🏷️ 标签
 #javascript #页面可见性 #前端API

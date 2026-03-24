@@ -36,7 +36,7 @@ function App() {
 
 ## 🔗 关联笔记
 
-- [[react_JSX_语法]]
+- [[React JSX语法]]
 
 ## 🏷️ 标签
 

@@ -38,7 +38,7 @@ Set-Cookie: token=xxx; HttpOnly; SameSite=Lax
 
 - [[HttpOnly Cookie]]
 
-- [[XSS 攻击模型]]
+- [[XSS攻击模型]]
 
 ## 🏷️ 标签
 

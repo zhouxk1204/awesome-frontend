@@ -52,7 +52,7 @@ const ref = useRef();
 
 ## 🔗 关联笔记
 
-- [[react_state]]
+- [[React state]]
 
 ## 🏷️ 标签
 

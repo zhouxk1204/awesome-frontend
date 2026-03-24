@@ -24,8 +24,8 @@ window.addEventListener('pagehide', () => {
 - 后台日志上报
 
 ## 🔗 关联笔记
-- [[beforeunload 与 unload]]
-- [[pagehide 与 pageshow]]
+- [[beforeunload与unload]]
+- [[pagehide与pageshow]]
 
 ## 🏷️ 标签
 #javascript #页面卸载 #数据上报

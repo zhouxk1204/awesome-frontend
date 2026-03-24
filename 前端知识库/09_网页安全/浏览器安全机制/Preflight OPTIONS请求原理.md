@@ -36,9 +36,9 @@ Access-Control-Request-Headers: Authorization
 
 ## 🔗 关联笔记
 
-- [[CSRF 原理]]
+- [[CSRF原理]]
 
-- [[CORS 跨域机制]]
+- [[CORS跨域机制]]
 
 ## 🏷️ 标签
 

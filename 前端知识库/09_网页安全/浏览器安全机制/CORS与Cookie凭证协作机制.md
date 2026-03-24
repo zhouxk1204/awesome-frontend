@@ -39,9 +39,9 @@ fetch(url, { credentials: "include" })
 
 ## 🔗 关联笔记
 
-- [[Fetch credentials 参数]]
+- [[Fetch credentials参数]]
 
-- [[同源策略（SOP）详解]]
+- [[同源策略SOP详解]]
 
 ## 🏷️ 标签
 

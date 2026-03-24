@@ -148,11 +148,11 @@ original ──► copy
 
 ## 🔗 关联笔记
 
-- [[深拷贝_vs_浅拷贝]]
+- [[深拷贝与浅拷贝]]
 
-- [[JSON_stringify_深拷贝的缺陷]]
+- [[JSON stringify深拷贝的缺陷]]
 
-- [[structuredClone_最佳实践]]
+- [[structuredClone最佳实践]]
 
 ## 🏷️ 标签
 

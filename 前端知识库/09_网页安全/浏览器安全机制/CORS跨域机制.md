@@ -99,13 +99,13 @@ OPTIONS（预检）
 
 ## 🔗 关联笔记
 
-- [[同源策略（SOP）详解]]
+- [[同源策略SOP详解]]
 
-- [[Fetch credentials 参数]]
+- [[Fetch credentials参数]]
 
-- [[CSRF 原理]]
+- [[CSRF原理]]
 
-- [[SameSite Cookie 详解]]
+- [[SameSite Cookie详解]]
 
 ## 🏷️ 标签
 

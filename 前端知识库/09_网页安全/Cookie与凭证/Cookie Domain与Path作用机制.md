@@ -43,9 +43,9 @@ Set-Cookie: session=abc;
 
 ## 🔗 关联笔记
 
-- [[SameSite Cookie 详解]]
+- [[SameSite Cookie详解]]
 
-- [[CSRF 原理]]
+- [[CSRF原理]]
 
 ## 🏷️ 标签
 

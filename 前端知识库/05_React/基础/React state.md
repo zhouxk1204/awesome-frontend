@@ -234,7 +234,7 @@ useState(() => heavyCompute());
 
 ## 🔗 关联笔记
 
-- [[react_受控与非受控组件]]
+- [[React受控与非受控组件]]
 - [[react_state_批处理机制]]
 - [[react_渲染流程]]
 

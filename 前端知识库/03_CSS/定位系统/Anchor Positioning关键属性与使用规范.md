@@ -4,7 +4,7 @@
 
 > 本文为**工程使用规范**，不讲原理。  
 > 如需理解定位模型，请先阅读：  
-> [[CSS Anchor Positioning（概念与定位模型）]]
+> [[CSS Anchor Positioning概念与定位模型]]
 
 ---
 

@@ -114,13 +114,13 @@ Access-Control-Allow-Credentials: true
 
 ## 🔗 关联笔记
 
-- [[CSRF 原理]]
+- [[CSRF原理]]
 
-- [[CORS 跨域机制]]
+- [[CORS跨域机制]]
 
 - [[HttpOnly Cookie]]
 
-- [[SameSite Cookie 详解]]
+- [[SameSite Cookie详解]]
 
 ---
 
