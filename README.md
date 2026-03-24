@@ -180,6 +180,17 @@
 - [[XSS vs CSRF vs SameSite vs HttpOnly]]
 - [[一次跨域请求完整时序图（CORS  Cookie CSRF）]]
 
+---
+
+### 10_AI 编程
+
+#### Claude Code
+
+- [[🚀 AI Coding 项目强制规范]]
+- [[📘 PROMPTS 模板]]
+
+---
+
 ## 🔖 标签 (Tags)
 
-- #CSS #JavaScript #HTML #前端知识库 #React
+- #CSS #JavaScript #HTML #前端知识库 #React #AI编程
